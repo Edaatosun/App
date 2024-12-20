@@ -1,0 +1,32 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "description": "A novel about the serious issues of rape and racial inequality.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81OdwZDKzCL.jpg",
+    "date": "1960-07-11"
+  },
+  {
+    "title": "1984",
+    "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+    "date": "1949-06-08"
+  },
+  {
+    "title": "The Great Gatsby",
+    "description": "A story about the young and mysterious millionaire Jay Gatsby and his quixotic passion for the beautiful Daisy Buchanan.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71VZ0sB-c1L.jpg",
+    "date": "1925-04-10"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "description": "A romantic novel of manners written by Jane Austen, exploring the British Regency era.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81vgIBTlYOL.jpg",
+    "date": "1813-01-28"
+  },
+  {
+    "title": "Moby-Dick",
+    "description": "The narrative of Captain Ahab’s obsessive quest to avenge the white whale that bit off his leg.",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71sV-xDrNbL.jpg",
+    "date": "1851-10-18"
+  }
+]
